@@ -16,9 +16,11 @@ The sensor system detects the rubbish by using the HC-SR04 sensor which emits a 
 This sensing system makes use of two garbage sensors in different countries, writing to a database hosted in the cloud. This data is then retrieved from the cloud in order to complete Task 3 data analysis and visualisation. Kain handled the sensor design and setup, Dev handled the cloud connectivity data management and handled the actuator activation.
 
 
-### Useful commands
+### Useful Tips
 
-Download and setup Arduino UNO IDE and use the code provided in the project to get a working system.
+1.Download and setup Arduino UNO IDE and use the code provided in the project to get a working system.
+
+2. You can find a comprehensive user manual within the repository. This manual explains the code intricacies, offers guidance on constructing the garbage system, and showcases evidence validating the functionality of the remote garbage bin full sensing system.
 
 ## Authors
 
